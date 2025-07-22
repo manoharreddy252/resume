@@ -1,35 +1,56 @@
-# Manohara Reddy B C - Resume
+# Manohara Reddy B C - Professional Resume
 
-This repository contains my professional resume as a GitHub Pages website.
+A modern, responsive, and interactive resume website showcasing my professional experience, skills, and projects.
 
-## About Me
+## 🌐 Live Website
 
-I am a Lead Software Engineer with over 6 years of experience in designing, developing, and deploying scalable applications. My expertise spans full-stack development, Python RESTful web services, data science, AI/ML, cloud services, and DevOps practices.
+Visit my resume website at [https://manoharareddybc.github.io](https://manoharareddybc.github.io)
 
-## Skills
+## ✨ Features
 
-- **Languages**: Python, Java, Bash, R, HTML, CSS, JavaScript
-- **Frameworks**: Flask, Django, React, Vue, Pyspark, Selenium, JSON, Boto3
-- **Cloud Services**: AWS (EC2, Lambda, IAM, S3, EBS, Redshift, VPC, SNS, SQS, RDS, CloudFormation, Route53, DynamoDB)
-- **Containerization**: Docker, Kubernetes, Elastic Beanstalk
-- **Database/ORM**: SQL, MySQL, Postgres, DynamoDB, Python ORM, Neo4J
-- **Tools**: Jira, SonarQube, Terraform, Postman
+- Modern and professional design
+- Fully responsive layout for all devices
+- Interactive UI with smooth animations
+- Project showcase with detailed modal views
+- Skills categorization with visual icons
+- Timeline-based work experience display
+- Contact form for easy communication
+- Dark/light mode support
 
-## Experience
+## 🛠️ Technologies Used
 
-- **Lead Software Engineer** at Virtusa, Bengaluru (Mar 2022 - Present)
-- **Associate Software Engineer** at Brigosha, Bengaluru (Jun 2020 - Mar 2022)
-- **Associate Developer** at Coextrix Technologies, Bengaluru (May 2019 - May 2020)
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- JavaScript (ES6+)
+- Font Awesome Icons
+- Google Fonts
 
-## Education
+## 📋 Sections
 
-- B.TECH (COMPUTER SCIENCE & ENGINEERING), PES UNIVERSITY, BENGALURU (2015 - 2018)
+- About Me
+- Work Experience
+- Skills & Expertise
+- Featured Projects
+- Education
+- Contact Information
 
-## Contact
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+- Desktop computers
+- Tablets
+- Mobile phones
+
+## 🚀 Deployment
+
+This website is deployed using GitHub Pages. Any changes pushed to the main branch will automatically be deployed to the live site.
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 📞 Contact
 
 - Email: manoharreddy252@gmail.com
 - Phone: +91 8722361890
-
-## View Resume
-
-You can view my full resume by visiting [https://manoharareddybc.github.io](https://manoharareddybc.github.io)
+- Location: Bengaluru, Karnataka, India
